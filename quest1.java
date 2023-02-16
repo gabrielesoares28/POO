@@ -1,3 +1,6 @@
+//Crie uma classe Pessoa que contenha os atributos nome, idade e sexo. Em seguida, crie um objeto dessa classe e exiba suas informações na tela.
+
+
 import java.sql.SQLOutput;
 
 public class Pessoa {
