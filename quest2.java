@@ -1,9 +1,6 @@
 //POO RESOLUÇÕES DE PROGRAMAÇÃO ORIENTADA A OBJETO (JAVA)
-/*Crie uma classe Carro que contenha os atributos modelo, cor e ano. 
-Adicione um método ligar, que exiba a mensagem "O carro [modelo] está ligado". Crie um objeto dessa classe e teste o método ligar.*/
-
-
-
+/*Crie uma classe ContaBancaria que contenha os atributos número da conta, saldo e titular. 
+Adicione os métodos sacar e depositar, que devem alterar o saldo da conta. Em seguida, crie um objeto dessa classe e teste os métodos criados..*/
 
   public class ContaBancaria {
     int numeroConta;
