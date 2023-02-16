@@ -1,4 +1,7 @@
 //POO RESOLUÇÕES DE PROGRAMAÇÃO ORIENTADA A OBJETO (JAVA)
+/*Crie uma classe Animal que contenha os atributos nome, idade e espécie. 
+Adicione um método emitirSom, que exiba o som que o animal faz. Em seguida, crie um objeto dessa classe e teste o método emitirSom.*/
+
 import java.util.Locale;
 
 public class Animal {
