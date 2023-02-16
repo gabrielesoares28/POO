@@ -1,4 +1,7 @@
 //POO RESOLUÇÕES DE PROGRAMAÇÃO ORIENTADA A OBJETO (JAVA)
+/*Crie uma classe Retangulo que contenha os atributos base e altura.
+Adicione um método calcularArea, que deve retornar a área do retângulo. Em seguida, crie um objeto dessa classe e teste o método calcularArea.*/
+
 public class Retangulo {
     double base;
     double altura;
